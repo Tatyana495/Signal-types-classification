@@ -1,4 +1,4 @@
-> Если не получается скачать файл `*.ipynb`, то берём ноутбук отсюда: https://disk.yandex.ru/d/YZPaXMxvKWj3Qw
+> Если не получается скачать файл `*.ipynb`, то берём ноутбук отсюда: [https://disk.yandex.ru/d/YZPaXMxvKWj3Qw](https://disk.yandex.ru/d/YZPaXMxvKWj3Qw)
 
 # Кластеризация сигналов сцинтилляционного детектора
 
